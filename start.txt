@@ -1,0 +1,61 @@
+Matematika pro informatiky 2
+Plánovaný program viz [[http://mant.upol.cz/cs/ymat.asp]]
+
+1. Funkce jedné reálné proměnné — ohraničená, monotonní, prostá, složená funkce, inverzní funkce, přehled elementárních funkcí.
+
+2. Posloupnost, limita posloupnosti — ohraničená posloupnost, monotonní posloupnost, konvergentní a divergentní posloupnost, limes superior, limes inferior.
+Limita funkce — geometrický význam limity funkce, vlastní a nevlastní limita, limity zprava a zleva.
+Spojitost funkce — spojitost funkce v bodě, body nespojitosti, spojitost na intervalu, po částech spojitá funkce, spojitost složené a inverzní funkce.
+
+3. Derivace funkce — definice derivace funkce, geometrický význam derivace funkce, pravidla pro derivování funkcí, derivace složené funkce, derivace inverzní funkce, derivace elementárních funkcí.
+
+Průběh funkce — diferenciál funkce, základní věty diferenciálního počtu, extrémy funkce, konvexní a konkávní křivky, asymptoty.
+
+4. Neurčitý integrál — primitivní funkce, tabulka základních neurčitých integrálů, metoda per partes, integrace substitucí, integrace obecné racionální funkce.
+
+5. Riemannův určitý integrál — zavedení pojmu, základní věta integrálního počtu, metoda per partes a substituční metoda pro určité integrály.
+Geometrická interpretace určitého integrálu — určení obsahu rovinné plochy, určení délky oblouku křivky, určení objemu tělesa.
+Materiály
+Následující texty plně vyčerpávají probíranou látku, a to tak plně, že k ůspěšnému absolvování kurzu bude stačit jen ta její část,
+o které bude pojednáno na konzultacích.
+Materiály pro první tři témata a pro poslední dvě témata. Příklady ke zkoušce. 
+
+
+
+
+
+----
+Předmět je úvodem do matematické analýzy funkcí jedné proměnné. Je určen především posluchačům kombinovaného studia aplikované informatiky a rozšiřujícího studia učitelství výpočetní techniky.
+
+
+Obsah
+  - [[cs>Funkce]] jedné reálné proměnné - ohraničená, monotonní, prostá, složená funkce, inverzní funkce, přehled elementárních funkcí.
+
+  - [[cs>Posloupnost]], limita posloupnosti - ohraničená posloupnost, monotonní posloupnost, konvergentní a divergentní posloupnost, limes superior, limes inferior.
+
+  - [[cs>Limita funkce]]
+    * geometrický význam limity funkce,
+    * vlastní a nevlastní limita,
+    * limity zprava a zleva.
+
+  - [[cs>Spojitost]] funkce - spojitost funkce v bodě, body nespojitosti, spojitost na intervalu, po částech spojitá funkce, spojitost složené a inverzní funkce.
+
+  - [[cs>Derivace]] funkce - definice derivace funkce, geometrický význam derivace funkce, pravidla pro derivování funkcí, derivace složené funkce, derivace inverzní funkce, derivace elementárních funkcí.
+
+  - Průběh funkce - diferenciál funkce, základní věty diferenciálního počtu, extrémy funkce, konvexní a konkávní křivky, asymptoty.
+
+  - [[cs>Neurčitý integrál]] - primitivní funkce, tabulka základních neurčitých integrálů, metoda per partes, integrace substitucí, integrace obecné racionální funkce.
+
+  - [[cs>Riemann]]ův určitý integrál - zavedení pojmu, základní věta integrálního počtu, metoda per partes a substituční metoda pro určité integrály.
+
+  - Geometrická interpretace určitého integrálu - určení obsahu rovinné plochy, určení délky oblouku křivky, určení objemu tělesa.
+
+======Literatura======
+  * Škrášek J., Tichý J. Aplikace matematiky I. a II.. SNTL Praha, 1990. [[isbn>8003001501]]
+  * Finney R.L., Thomas G.B. Calculus. Addison-Wesley New York, 1992. [[isbn>0201557010]]
+  * Adams R.A. Calculus: a complete course. Addison-Wesley New York, 1991. [[isbn>020150944X]]
+  * Jarník V. Diferenciální počet I. Akademia Praha, 1984.
+  * Jarník V. Integrální počet I. Academia Praha, 1984.
+  * Schwabik Š.,Šarmanová P. Malý průvodce historií integrálu. MU Brno, 2000.
+  * Míka S., Drábek P. Matematická analýza II. Západočeská univerzita Plzeň, 2003. [[isbn>80-7082-977-X]]
+  * [[http://aix-slx.upol.cz/~tomecek/vyuka.htm|upol Tomeček výuka]]
