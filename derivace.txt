@@ -1,0 +1,41 @@
+======derivace======
+  * [[cs>Derivace]]
+  * [[wa>taylor series sin x]]
+
+======součtu======
+linearita derivace \( (af + bg)' = af' + bg' \)
+======součinu======
+\( (f g)' = f'g + fg' \)
+======podílu======
+\( (\frac{f}{g})' = \frac{f'g - fg'}{g^2} \)
+
+======primitivních funkcí======
+\( (\log_a x)' = \frac{1}{x \ln a} \)
+
+\( (\ln x)' = \frac{1}{x} \)
+
+[[wa> derivative a^x ]] \( a^x \ln a \)
+
+\( (\sin x )' = \cos x, (\cos x)' = - \sin x \)
+
+[[wa>csc x, sin x]], [[cs>Kosekans]]
+[[wa>sec x, cos x]]
+
+\( (\tan x)' = \frac{1}{cos^2 x} \)
+\( (\cot x)' = \frac{-1}{sin^2 x} \)
+
+\( \int \tan x dx = \ln \sin x \) [[wa>integrate tan x]]
+[[wa> d/dx tan(x) ]]
+[[wa> solve y'(x) = tan(x) ]]
+[[wa> series of int tan(x) dx ]]
+
+\( (a^x)' = a^x \ln a \), speciálně \( (e^x)' = e^x \)
+
+======arcsin======
+\( ( \arcsin x )' =  \frac{1}{\sqrt{1 - x^2}} \) [[wa> derivative sin^-1 x]]
+
+\( ( \arccos x )' = -\frac{1}{\sqrt{1 - x^2}} \) [[wa> derivative cos^-1 x]]
+
+\( ( \arctan x )' =  \frac{1}{{1 + x^2}} \) [[wa> derivative tan^-1 x]] [[wa> derivative cot^-1 x]]
+======sinh======
+\( ( \sinh x )' =  \cosh x \), funkce vypadají takto: [[wa>plot sinh x, cosh x, 1/x]]

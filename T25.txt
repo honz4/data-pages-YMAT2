@@ -1,0 +1,44 @@
+======T25======
+[[http://math.feld.cvut.cz/mt/txtd/3/txc3db3i.htm|Rozkladem]] na parciální zlomky
+[[http://math.feld.cvut.cz/mt/txtd/3/txc3db3d.htm|najděte]] primitivní funkce:
+
+=====315.=====
+\( \int \frac{dx}{ (x − 1)(x + 3) } \)
+[[wa>integrate 1 /((x - 1)(x + 3)) dx ]]
+rozložit na \( \frac{1}{4(x - 1)} - \frac{1}{4(x +3)} \) [[stepbystep#T315]]
+
+=====316.=====
+\( \int \frac{ dx}{ x^2 + x - 2 } \)
+[[wa>integrate 1 /( x^2 + x - 2 ) dx ]]
+
+=====317.=====
+\( \int \frac{ x dx }{ (x + 2)(x + 3) } \)
+[[wa>integrate  x /( (x + 2)(x + 3) ) dx]]
+
+=====318.=====
+\( \int \frac{2x + 3}{ (x − 2)(x + 5) } \,dx \)
+[[wa>integrate(2x + 3)/((x - 2)(x + 5)) ]]
+
+=====319.=====
+\( \int \frac{dx}{x^4 - 1} \)
+[[wa>integrate 1/(x^4 - 1) dx ]]
+
+=====320.=====
+DELETEME \( \int \frac{ x dx }{ x^3 − 3x + 2} \)
+[[wa>integrate x / (x^3 - 3x + 2) dx ]]
+
+=====321.=====
+DELETEME \( \int \frac{ dx }{ (x + 1)(x^2 + 1) } \)
+[[wa>integrate 1 / ( (x + 1)(x^2 + 1) ) ]] 
+
+=====322.=====
+DELETEME \( \int \frac{dx}{x^3 + 1} \)
+[[wa>integrate 1/(x^3 + 1) dx ]]
+
+=====323.=====
+DELETEME \( \int \frac{ x dx }{ x^3 − 1} \,dx \)
+[[wa>intergrate x / (x^3  - 1) dx ]]
+
+=====324.=====
+DELETEME \( \int \frac{x \,dx}{2x^2 - 3x - 2} \)
+[[wa>integrate   x / (2x^2 - 3x - 2) dx ]]

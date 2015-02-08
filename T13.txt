@@ -1,0 +1,21 @@
+======T13======
+Dokažte nerovnosti
+=====157.=====
+
+\( | \sin x − \sin y| \leq |x − y| \)
+[[wa> abs(sinx - siny) <= abs(x - y) ]]
+[[wa>RegionPlot(abs(sin(x)-sin(y)), abs(x-y)) ]]
+
+
+=====158.=====
+\( e^x > 1 + x pro x \ne 0 \)
+[[wa> e^x > 1+x ]]
+
+=====159.=====
+\( x - \frac{x^2}{2} < \ln (1 + x) < x pro x \gt 0 \)
+
+
+=====160.=====
+\( x - \frac{x^3}{6} < \sin x < x pro x \gt 0 \)
+[[wa> x - x^3/6 < sin x < x from x<0 ]]
+

@@ -1,0 +1,27 @@
+======T9======
+Geometrický význam derivace. Na zkoušce nebude?
+=====136.=====
+Napište rovnici tečny a normály ke grafu funkce
+\( f(x) = (x + 1)\sqrt[3]{3 - x} \)
+[[wa>plot (x + 1)cuberoot(3 - x) at x=[-1,0] ]]
+
+v bodech a) A = [−1, 0]; b) B = [2, 3]; c) C = [3, 0].
+=====137.=====
+Ve kterých bodech grafu funkce \( f(x) = 2 + x − x^2 \)
+je tečna
+a) rovnoběžná s osou x;
+b) rovnoběžná s přímkou y = x?
+[[wa> plot 2 + x = x^2 ]]
+
+=====138.=====
+Pod jakým úhlem protíná graf funkce \(f(x) = ln x \)
+[[wa>plot ln x]]
+
+=====139.=====
+Pod jakým úhlem se protínají grafy funkcí
+\( f(x) = x^2 a g(x) = \sqrt{x} \)
+[[wa>plot x^2, sqrt x]]
+
+=====140.=====
+Pod jakým úhlem se protínají grafy funkcí \( f(x) = \sin x a g(x) = \cos x \) ?
+[[wa> f(x) = sin x, g(x) = cos x ]]

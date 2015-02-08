@@ -1,0 +1,40 @@
+======T19======
+Pomocí Taylorova vzorce vypočítejte přibližně
+[[wa>taylor series sin x]]
+
+=====234.=====
+\( \sqrt[3]{30} \)
+[[wa> taylor cuberoot 30 ]]
+
+[[wa> series x^1/3 at x=27 order to 2]]
+
+=====235.=====
+\( \sqrt[5]{250}, 3^5 = 243 \) 
+[[wa> series x^1/5 at x=243 order to 3]] 
+
+=====236.=====
+DELETEME \( \sqrt[12]{4000} 2^12 = 4096 \)
+[[wa> 4000^1/12 ]]
+[[wa> series x^1/12 at x=4096 order to 3 ]]
+
+=====237.=====
+DELETEME \( \sqrt{e} \)
+[[wa> sqrt e ]]
+
+=====238.=====
+\( \sin 18 \)
+
+=====239.=====
+\( \ln 1.2 \)
+[[wa> taylor ln 1.2 ]]
+
+=====240.=====
+DELETEME \( \arctan 0.8 \)
+
+=====241.=====
+DELETEME \( \arcsin 0.45 \)
+
+=====242.=====
+\( 1.1^{1.2} \)
+[[wa> 1.1^1.2 ]]
+

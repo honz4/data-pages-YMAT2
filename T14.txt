@@ -1,0 +1,42 @@
+======T14======
+Najděte intervaly, na kterých je funkce rostoucí, resp. klesající:
+=====161.=====
+\( f(x) = 2 + x − x^2 \)
+[[wa> plot f(x) = 2 + x − x^2 ]]
+
+=====164.=====
+\( f(x) = \frac{\sqrt{x}}{x + 100} \)
+[[wa> sqrt x / ( x + 100) ]]
+
+=====162.=====
+\( f(x) = 3x − x^3 \)
+[[wa> plot f(x) = 3x − x^3 ]]
+
+=====163.=====
+\( f(x) = \frac{2x}{1 + x^2} \)
+[[wa> f(x) = 2x / (1 + x^2) ]]
+
+=====165.=====
+\( f(x) = x + \sin x \)
+[[wa> f (x) = x + sin x ]]
+
+=====166.=====
+\( f(x) = x + |sin 2x| \)
+[[wa> f(x) = x + |sin 2x| ]]
+[[wa
+
+=====167.=====
+\( f(x) = \cos \frac{\pi}{x} \)
+[[wa> f(x) = cos pi/x ]]
+
+=====169.=====
+\( f(x) = x^n e^−x , n > 0, x \gt 0 \)
+[[wa> f(x) = x^n e^−x , n > 0, x >= 0 ]]
+
+=====170.=====
+\( f(x) = x^2 − \ln x^2 \)
+[[wa> f(x) = x^2 − ln x^2 ]]
+
+=====168.=====
+\( f(x) = \frac{x^2}{2^x} \)
+[[wa> f(x) = x^2 / 2^x ]]

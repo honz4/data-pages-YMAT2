@@ -1,0 +1,41 @@
+======T4======
+Pro následující posloupnosti najděte inf{an }∞
+n=1 , sup{an }n=1
+a vypočítejte \( \lim_{n \to \infty} \inf a_n \) , \( \lim_{n \to \infty} \sup a_n \) :
+
+=====38.=====
+\(a_n = \frac{1}{n} \)
+[[wa> lim 1/n as n->infinity]]
+[[wa> series 1/n ]]
+
+=====39.=====
+\(a_n = 1 − \frac{1}{n} \)
+[[wa> lim 1 - 1/n as n->infinity]]
+
+=====40.=====
+\(a_n = \frac{(-1)^n}{n} \)
+[[wa> lim (-1)^n / n as n->infinity]]
+
+=====41.=====
+\(a_n = −n \)
+[[wa> lim -n as n->infinity]]
+
+=====42.=====
+DELETEME
+\(a_n = (−1)^{n−1} (2 + \frac{3}{n}) \)
+
+=====43.=====
+DELETEME
+\(a_n = (−1)^n n \)
+[[wa> lim -1^n n as n->infinity]]
+
+=====44.=====
+DELETEME
+\(a_n = n^{(−1)^n} \)
+[[wa> lim n^((-1)^n) as n->infinity]]
+
+=====45.=====
+DELETEME \(a_n = 1 + n \sin \frac{n \pi}{2} \)
+
+=====46.=====
+DELETEME \(a_n = \frac{1}{n - 10.2} \)

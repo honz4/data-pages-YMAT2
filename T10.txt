@@ -1,0 +1,18 @@
+======T10======
+Pomocí diferenciálu vypočítejte přibližně hodnoty:
+=====141.=====
+\( \sqrt[3]{1.02} \)
+[[wa>cuberoot 1.02]]
+
+=====143.=====
+\( \cos 151 \)
+[[wa>cos 151]]
+
+=====142.=====
+\( \sin 29 \)
+[[wa> sin 29]]
+
+=====144.=====
+\(arctan 1.05 \)
+[[wa>atan 1.05 ]]
+

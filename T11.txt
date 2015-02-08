@@ -1,0 +1,35 @@
+======T11======
+Vypočítejte derivaci 2. řádu funkcí:
+
+=====145.=====
+\( f(x) = x \sqrt{1 + x^2} \)
+[[wa> x sqrt(1 + x^2) , derivative x sqrt(1 + x^2) , second derivative x sqrt(1 + x^2) ]]
+
+=====146.=====
+\( f (x) = \frac{x}{\sqrt{1 + x^2}} \)
+[[wa> (1 + x) arctg x , derivative (1 + x) arctg x , second derivative (1 + x) arctg x]]
+
+=====147.=====
+\( f (x) = e^{x^2} \)
+[[wa>e^(x^2) , derivative e^(x^2) , second derivative e^(x^2) ]]
+
+=====148.=====
+\( f (x) = \tan x \)
+[[wa>tg x, derivative tg x, second derivative tg x ]]
+
+=====149.=====
+\( f (x) = ( 1 + x^2 ) \arctan x \)
+[[wa>second derivative (1 + x^2) arctg x]]
+
+=====150.=====
+\( f (x) = x \ln x \)
+[[wa> x ln x , derivative x ln x , second derivative x ln x ]]
+
+=====151.=====
+\( f (x) = \ln \phi(x) \)
+[[wa>second derivative ln phi(x) ]]
+
+=====152.=====
+\( f (x) = x(\sin \ln x + \cos \ln x) \)
+[[wa>x (sin ln x + cos ln x) , derivative x (sin ln x + cos ln x) , second derivative x (sin ln x + cos ln x)]]
+

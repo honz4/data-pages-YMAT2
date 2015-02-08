@@ -1,0 +1,65 @@
+======T3======
+[[http://wolframalpha.com/examples/Limits.html|Vypočítejte]] limitu posloupnosti:
+=====22.=====
+\( \lim_{n \to \infty} \frac{5 - 2n}{3n - 7} \)
+[[wa>lim (5 - 2n) / (3n - 7) as n->infinity]]
+
+=====23.=====
+\( \lim_{n \to \infty} \frac{n^2 + 4}{n + 4} \)
+[[wa>lim (n^2 + 4) / (n + 5) as n->infinity]]
+
+=====24.=====
+\( \lim_{n \to \infty} \frac{n^2}{n^3 + 5} \)
+[[wa>lim (n^2) / (n^3 + 5) as n->infinity]]
+
+=====25.=====
+DELETEME \( \lim_{n \to \infty} \frac{(2n - 1)(n^2 - n + 2)}{(n + 1)(2n + 1)(3n + 1)} \)
+[[wa> limit of ( (2n - 1)(n^2 - n + 2)) / ((n + 1)(2n + 1)(3n + 1)) as n=+oo ]]
+
+=====26.=====
+DELETEME \( \lim_{n \to \infty} \frac{n!}{(n + 1)!  - n!} \)
+[[wa>lim n! / ((n + 1)! - n!) as n->infinity]]
+
+=====27.=====
+DELETEME \( \lim_{n \to \infty} n^{\sin \frac{1}{n}} \)
+[[wa>lim (n^(sin (1/n))) as n->infinity]]
+
+=====28.=====
+DELETEME \( \lim_{n \to \infty} \frac{(-2)^n + 3^n}{(-2)^{n+1} + 3^{n+1}} \)
+[[wa> lim ((-2)^n + 3^n) / ((-2)^(n+1) + 3^(n+1)) as n->+oo ]]
+
+=====29.=====
+\(\lim_{n \to \infty} \frac{2n + \sin n}{3n - 1} \)
+[[wa>lim (2n + sin n) / (3n - 1) as n->infinity]]
+
+=====30.=====
+DELETEME \( \lim_{n \to \infty} \frac{\sqrt[3]{n^2} \sin n!}{n + 1} \)
+[[wa>  lim ( cuberoot (n^2) sin n! ) / (n + 1) as n->+oo ]]
+
+=====31.=====
+\( \lim_{n \to \infty} ( \sqrt{n^2 + 2n} - n ) \) 
+[[wa> lim sqrt(n^2 + 2n) - n   as n->infinity ]]
+
+=====32.=====
+\( \lim_{n \to \infty} ( \sqrt{n + 1} - \sqrt{n} ) \)
+[[wa> lim sqrt(n + 1) - sqrt(n) as n->infinity]] Answer: 0 {{YMAT2:T32.png|StepByStep Solution}}
+resp. lze použít racionalizace jako v [[#31]]
+
+=====33.=====
+DELETEME \( \lim_{n \to \infty}  \frac{1 + a + a^2 + \dots + a^n}{1 + b + b^2 + \dots + b^n}, |a| < 1, |b| < 1 \)
+
+=====34.=====
+DELETEME \( \lim_{n \to \infty} ( \frac{1}{n^2} + \frac{2}{n^2} + \dots + \frac{n-1}{n^2} ) \)
+
+=====35.=====
+DELETEME \( \lim_{n \to \infty} \sqrt{2} \sqrt[4]{2} \sqrt[8]{2} \dots \sqrt[2^n]{2} \)
+
+=====36.=====
+\( \lim_{n \to \infty} ( \frac{n + 4}{n + 3})^n \)
+[[wa> lim ((n + 4)/(n + 3))^n as n->infinity]] {{YMAT2:T36.png|StepByStep}}
+
+=====37.=====
+\( \lim_{n \to \infty} (\frac{n - 3}{n})^n \)
+[[wa> lim ((n - 3)/n )^n as n->infinity]]
+upravíme na:
+[[wa> lim (1 - 3/n)^n as n->+oo]] {{YMAT2:T37.png|StepByStep}}

@@ -1,0 +1,178 @@
+======T7======
+Vypočítejte [[derivace|derivaci]] funkcí:
+
+=====88.=====
+\( f (x) = \frac{1}{x} + \frac{2}{x^2} + \frac{3}{x^3} \)
+[[wa>derivative 1/x + 2/x^2 + 3/x^3 ]]
+
+=====89.=====
+\( f(x) = \frac{2x}{1 - x^2} \)
+[[wa>derivative 2x/(1 - x^2)]]
+pomocí [[derivace#podilu]]
+\( \frac{2(1 + x^2)}{(1 - x^2)^2} \)
+
+=====90.=====
+\( f (x) = \frac{1 + x − x^2}{1 − x + x^2} \)
+[[wa>derivative (1 + x − x^2)/(1 − x + x^2)]]
+
+=====91.=====
+DELETEME \( f (x) =  \frac{x}{(1 − x)^2 (1 + x)^3} \)
+[[wa>derivative x/((1 − x)^2 (1 + x)^3) ]]
+
+=====92.=====
+\( f (x) = \frac{(1 - x)^p}{(1 + x)^q} \)
+[[wa>derivative (1 - x)^p / (1 + x)^q ]]
+
+=====93.=====
+DELETEME \( f (x) = \frac{x^p(1 - x)^q}{1 + x} \)
+[[wa>derivative (x^p(1 - x)^q)/(1 + x)]]
+
+=====94.=====
+\( f(x) = x + \sqrt{x} + \sqrt[3]{x} \)
+[[wa> derivative x + sqrt(x) + cuberoot(x) ]]
+
+=====95.=====
+DELETEME \( f (x) = \frac{1}{x} + \frac{1}{\sqrt{x}} + \frac{1}{\sqrt[3]{x}} \)
+[[wa>derivative 1/x + 1/sqrt x + 1/ cuberoot x ]]
+
+=====96.=====
+\( f (x) = \sqrt[3]{x^2} − \frac{2}{\sqrt{x}} \)
+[[wa>derivative  cuberoot(x^2) − 2/sqrt x ]]
+
+=====97.=====
+DELETEME \( f (x) = x \sqrt{1 + x^2} \)
+[[wa>derivative x sqrt(1 + x^2) ]]
+
+=====98.=====
+\( f (x) = \frac{x}{\sqrt{a^2 - x^2}} \)
+[[wa>derivative x/sqrt(a^2 - x^2) ]]
+
+=====99.=====
+DELETEME \( f (x) = \sqrt[3]{\frac{1 + x^3}{1 - x^3}} \)
+[[wa>derivative cuberoot (1 + x^3)/(1 - x^3) ]]
+
+=====100.=====
+\( f (x) = \cos 2x − 2 \sin x \)
+[[wa>derivative cos 2x − 2 sin x ]]
+
+=====101.=====
+\( f (x) = (2 − x^2) \cos x + 2x \sin x \)
+[[wa> (2 - x^2) cos x + 2x sin x ]]
+[[wa> derivative (2 - x^2) cos x + 2x sin x ]]
+
+=====102.=====
+\( f (x) = \sin \sin \sin x \)
+[[wa> derivative sin sin sin x]]
+
+=====103.=====
+DELETEME \( f (x) = \frac{\sin^2 x}{\sin x^2} \)
+[[wa> derivative (sin^2 x) / (sin x^2) ]]
+
+=====104.=====
+\( f (x) = \frac{\cos x}{ 2 \sin^2 x} \)
+[[wa>derivative (cos x) / (2 sin^2 x) ]]
+
+=====105.=====
+\( f (x) = (\sin^n x) \cos nx \)
+[[wa>derivative (sin^n x) cos(n x) ]]
+
+=====106.=====
+DELETEME \( f (x) = \frac{1}{\cos^n x} \)
+[[wa> derivative 1 / cos^n x ]]
+
+=====107.=====
+\( f (x) = \frac{\sin x − x \cos x}{\cos x + x \sin x} \)
+[[wa> derivative (sin x - x cos x) /(cos x + x sin x) ]]
+
+=====108.=====
+DELETEME \( f (x) = \tan\frac{x}{2} − \cot\frac{x}{2} \)
+[[wa> derivative tan x/2 - cot x/2 ]]
+
+=====109.=====
+DELETEME \( f (x) = \sin \cos^2 \tan^3 x \)
+[[wa> derivative sin cos^2 tan^3 x ]]
+
+
+=====110.=====
+\( f (x) = e^{−x^2} \)
+[[wa> derivative e^-x^2 ]]
+
+=====111.=====
+DELETEME \( f (x) = 2^{\tan \frac{1}{x}} \)
+[[wa> derivative 2^tan 1/x ]]
+
+=====112.=====
+\( f (x) = e^x ( x^2 − 2x + 2 ) \)
+[[wa> derivative e^x ( x^2 -2x + 2 ) ]]
+
+=====113.=====
+\( f(x) = \frac{(\ln 3) \sin x + \cos x }{3^x} \)
+[[wa> derivative ( (ln 3) sin x + cos x ) / 3^x ]] POZOR: [[wa>  derivative 3^-x ]]
+
+=====114.=====
+\( f (x) = e^x + e^{e^x} + e^{e^{e^x}} \)
+[[wa> derivative e^x + e^e^x + e^e^e^x ]]
+
+=====115.=====
+\( f (x) =      x^{a^a} + a^{x^a} + a^{a^x} \)
+[[wa> derivative x^a^a  +  a^x^x  +  a^a^x ]]
+[[wa> derivative x^a^a ]]
+[[wa> derivative a^x^a ]]
+[[wa> derivative a^a^x ]]
+
+=====116.=====
+DELETEME \( f (x) = \ln^3 x^2 \)
+[[wa> derivative ln^3 x^2 ]]
+
+=====117.=====
+\( f (x) = \ln \ln \ln x \)
+[[wa> derivative ln ln ln x ]]
+
+=====118.=====
+DELETEME \( f (x) = \ln \ln^2 \ln^3 x \)
+[[wa> derivative ln ln^2 ln^3 x ]]
+
+=====119.=====
+\( f (x) = \frac{1}{4} \ln \frac{x^2 - 1}{x^2 + 1} \)
+[[wa> 1/4 ln ( (x^2 - 1) / (x^2 + 1) ) ]]
+
+
+=====120.=====
+\( f (x) = x(\sin \ln x − \cos \ln x) \)
+[[wa> derivative x ( sin ln x - cos ln x ) ]]
+
+=====121.=====
+DELETEME \( f(x) = \ln \tan \frac{x}{2} - (\cos x) \ln \tan x \)
+[[wa> derivative ln tan x/2 - (cos x) ln tan x ]]
+
+=====122.=====
+DELETEME \( f (x) = \arctan \frac{x^2}{a} \)
+[[wa> derivative arctan x^2 / a ]]
+
+=====123.=====
+DELETEME \( f (x) = \sqrt{x} - \arctan\sqrt{x} \)
+[[wa> derivative sqrt x - arctan sqrt x ]]
+
+=====124.=====
+\( f (x) = \arccos \frac{1}{x} \)
+[[wa> derivative arccos 1/x ]]
+
+=====125.=====
+\( f (x) = \arcsin \sin x \)
+[[wa> derivative arcsin sin x ]]
+
+=====126.=====
+\( f (x) = \arccos \cos^2 x \)
+[[wa> derivative arccos cos^2 x ]]
+
+=====127.=====
+DELETEME \( f (x) = \arctan \frac{1 + x}{1 - x} \)
+[[wa> derivative arctag((1 + x)/(1 - x)) ]]
+
+=====128.=====
+DELETEME \( f (x) = \ln (e^x + \sqrt{1 + e^{2x}} ) \)
+[[wa> derivative ln (e^x + sqrt (1 + e^(2x)) ) ]]
+
+=====129.=====
+DELETEME \( f (x) = \arctan ( x + \sqrt{1 + x^2} ) \)
+[[wa> derivative arctg ( x + sqrt (1 + x^2) ) ]]

@@ -1,0 +1,25 @@
+======T2======
+Určete inverzní funkci f −1 (x) a její deﬁniční obor:
+=====16.=====
+\(    f(x) = 2x + 3 \)
+[[wa>inverse 2x + 3 ]]
+
+=====17.=====
+\(    f(x) = x^2, x \leq 0 \)
+[[wa>inverse x^2]]
+
+=====18.=====
+\( f (x) = x^2, x \geq 0, \)
+[[wa>inverse x^2]]
+
+=====19.=====
+DELETEME \( f(x) = \sqrt{\frac{1 - x}{1 + x}}, x \neq -1 \)
+[[wa>inverse sqrt((1 - x)/(1 + x)), ]]
+
+=====20.=====
+DELETEME \( f(x) = \sqrt{1 − x^2} , −1 \leq x \leq 0 \)
+[[wa>     (sqrt(1 − x^2))^-1 , x=-1 to 0]]
+
+=====21.=====
+DELETEME \( f(x) = \sqrt{1 − x^2} , 0 \leq x \leq 1 \)
+[[wa>   sqrt(1 - x^2), (sqrt(1 − x^2))^-1 , x=0 to 1]]

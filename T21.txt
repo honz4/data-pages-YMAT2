@@ -1,0 +1,26 @@
+======T21======
+Určete Maclaurinovu řadu funcí:
+
+=====246.=====
+\( f(x) = e^x \)
+[[wa> taylor series e^x ]]
+
+=====247.=====
+\( f(x) = 2^x \)
+[[wa> taylor series 2^x ]]
+
+=====248.=====
+DELETEME \( f(x) = \frac{1}{1 - x} \)
+[[wa> taylor series 1/(1 - x) ]]
+
+=====249.=====
+\( f(x) = \sin x \)
+[[wa> taylor series sin x ]]
+
+=====250.=====
+\( f(x) = \cos x \)
+[[wa> taylor series cos x ]]
+
+=====251.=====
+DELETEME \( f(x) = \ln(1 + x) \)
+[[wa> taylor series  ln(1 + x) ]]

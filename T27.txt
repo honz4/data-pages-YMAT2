@@ -1,0 +1,30 @@
+======T27======
+Pomocí Riemannova integrálu vypočítejte limity posloupností:
+
+=====331.=====
+\( \lim_{n \to \infty} ( \frac{1}{n+1} + \frac{1}{n+2} + \ldots + \frac{1}{2n} ) \)
+[[wa> limit sum 1/(n+k), k=1 to n ]]
+
+
+=====332.=====
+\( \lim_{n \to \infty} n( \frac{1}{n^2+1^2} + \frac{1}{n^2+2^2} + \ldots + \frac{1}{2n^2} ) \)
+[[wa> limit sum n ( 1/(n^2+k^2) ), k=1 to n ]]
+
+=====333.=====
+DELETEME
+\( \lim_{n \to \infty} \frac{1}{n}(\sin\frac{\pi}{n} + \sin\frac{2\pi}{n} + ... \sin\frac{n-1}{n}\pi ) \)
+
+=====334.=====
+DELETEME
+\( \lim_{n \to \infty} \frac{1}{n}(\sqrt{1+\frac{1}{n}} +
+                                   \sqrt{1+\frac{2}{n}} +
+                                   \sqrt{1+\frac{n}{n}} ) \)
+
+=====335.=====
+DELETEME
+\( \lim_{n \to \infty} \frac{\sqrt[n]{n!}}{n} \)
+[[wa> limit of n!^(1/n)/n as n->+oo ]]
+
+=====336.=====
+\( \lim_{n \to \infty} (\frac{1}{n^2} + \frac{2}{n^2} + \ldots + \frac{2n-1}{n^2} ) \)
+[[wa> limit sum (2n-1)/(n^2), k=1 to n ]]

@@ -1,4 +1,13 @@
 Matematika pro informatiky 2
+zodpovedny referent jan tecka vlcek02 zavinac upol tecka cz
+======zkouška======
+  * oblasti: limity, derivace, integrál, taylor
+  * zcela se vynechávají [[T6]], [[T9]], [[T11]], [[T13]]
+  * vyškrtané příklady viz jednotlivé sekce
+  * dalsi sbírka/zdroje [[github>FrostyX/School|FrostyX github]]
+  * [[http://math.feld.cvut.cz/mt/pagec1.htm|math tutor]] FELD CVUT
+  * http://betterexplained.com
+======program======
 Plánovaný program viz [[http://mant.upol.cz/cs/ymat.asp]]
 
 1. Funkce jedné reálné proměnné — ohraničená, monotonní, prostá, složená funkce, inverzní funkce, přehled elementárních funkcí.
@@ -18,37 +27,36 @@ Geometrická interpretace určitého integrálu — určení obsahu rovinné plo
 Materiály
 Následující texty plně vyčerpávají probíranou látku, a to tak plně, že k ůspěšnému absolvování kurzu bude stačit jen ta její část,
 o které bude pojednáno na konzultacích.
-Materiály pro první tři témata a pro poslední dvě témata. Příklady ke zkoušce. 
+Materiály pro {{YMAT2:1-3.pdf|první tři}} témata a pro {{YMAT2:4-5.pdf|poslední dvě}} témata. {{YMAT2:ypr.txt|Příklady}} ke zkoušce. 
 
-
-
-
+======todo======
+  * TODO lokalni konfigurace mathjax-u
+  * přehled [[mathjax]] nejpoužívanějších MathML/TeX slov, zápisů, viz také [[http://detexify.kirelabs.org/classify.html|detexify]]
+  * existuje rychlejsi "math ajax" [[github>Khan/KaTeX]] -- používa [[ka>|Khan academy]]!? existuje nějaké dokuwiki plugin?
+  * zkusit udělat nějaký [[sage>|SAGE]] pokus?
+    * [[http://localhost/usr-share/doc/sagemath-5.9/output/html/en/tutorial/tour_algebra.html|Fedora19 SAGE tutorial]]
+    * **sagecell** plugin
+  * odkazy s [[wa>88mph|wolframalpha]]!cl
+  * wolfram příklady [[http://www.wolframalpha.com/examples/Calculus.html]] [[http://www.wolframalpha.com/examples/Polynominals.html]]
+  * zkusit nějaký symbolický CAS!!!???
 
 ----
 Předmět je úvodem do matematické analýzy funkcí jedné proměnné. Je určen především posluchačům kombinovaného studia aplikované informatiky a rozšiřujícího studia učitelství výpočetní techniky.
 
 
 Obsah
-  - [[cs>Funkce]] jedné reálné proměnné - ohraničená, monotonní, prostá, složená funkce, inverzní funkce, přehled elementárních funkcí.
-
-  - [[cs>Posloupnost]], limita posloupnosti - ohraničená posloupnost, monotonní posloupnost, konvergentní a divergentní posloupnost, limes superior, limes inferior.
-
-  - [[cs>Limita funkce]]
+  * [[cs>Funkce]] jedné reálné proměnné - ohraničená, monotonní, prostá, složená funkce, inverzní funkce, přehled elementárních funkcí.
+  * [[cs>Posloupnost]], limita posloupnosti - ohraničená posloupnost, monotonní posloupnost, konvergentní a divergentní posloupnost, limes superior, limes inferior.
+  * [[cs>Limita funkce]] [[http://www.wolframalpha.com/examples/Limits.html]]
     * geometrický význam limity funkce,
     * vlastní a nevlastní limita,
     * limity zprava a zleva.
-
-  - [[cs>Spojitost]] funkce - spojitost funkce v bodě, body nespojitosti, spojitost na intervalu, po částech spojitá funkce, spojitost složené a inverzní funkce.
-
-  - [[cs>Derivace]] funkce - definice derivace funkce, geometrický význam derivace funkce, pravidla pro derivování funkcí, derivace složené funkce, derivace inverzní funkce, derivace elementárních funkcí.
-
-  - Průběh funkce - diferenciál funkce, základní věty diferenciálního počtu, extrémy funkce, konvexní a konkávní křivky, asymptoty.
-
-  - [[cs>Neurčitý integrál]] - primitivní funkce, tabulka základních neurčitých integrálů, metoda per partes, integrace substitucí, integrace obecné racionální funkce.
-
-  - [[cs>Riemann]]ův určitý integrál - zavedení pojmu, základní věta integrálního počtu, metoda per partes a substituční metoda pro určité integrály.
-
-  - Geometrická interpretace určitého integrálu - určení obsahu rovinné plochy, určení délky oblouku křivky, určení objemu tělesa.
+  * [[cs>Spojitost]] funkce - spojitost funkce v bodě, body nespojitosti, spojitost na intervalu, po částech spojitá funkce, spojitost složené a inverzní funkce.
+  * [[cs>Derivace]] funkce - definice derivace funkce, geometrický význam derivace funkce, pravidla pro derivování funkcí, derivace složené funkce, derivace inverzní funkce, derivace elementárních funkcí.
+  * Průběh funkce - diferenciál funkce, základní věty diferenciálního počtu, extrémy funkce, konvexní a konkávní křivky, asymptoty.
+  * [[cs>Neurčitý integrál]] - primitivní funkce, tabulka základních neurčitých integrálů, metoda per partes, integrace substitucí, integrace obecné racionální funkce.
+  * [[cs>Riemann]]ův určitý integrál - zavedení pojmu, základní věta integrálního počtu, metoda per partes a substituční metoda pro určité integrály.
+  * Geometrická interpretace určitého integrálu - určení obsahu rovinné plochy, určení délky oblouku křivky, určení objemu tělesa.
 
 ======Literatura======
   * Škrášek J., Tichý J. Aplikace matematiky I. a II.. SNTL Praha, 1990. [[isbn>8003001501]]

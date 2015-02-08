@@ -1,0 +1,60 @@
+======mathjax======
+
+display vzorec $$ a = 5 $$
+
+ted zkusime inline: $ a = 5 $, ale mozna je default backslash a (zavorky): \( a = \sqrt{2} \)
+
+Klasicka kvadraticka rovnice: \( x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac} }{2a} \)
+
+pm \( \pm \) plusminus
+
+sqrt \( \sqrt{2} \) druha odmocnica
+
+frac \( \frac{1 + x}{1 - x} \) zlomek
+
+in, ni, notin, forall, exists \( \in \ni \notin \forall \exists \)
+
+\(  \arccos     \cos       \csc      \exp      \ker         \limsup      \min      \sinh  
+ \arcsin     \cosh      \deg      \gcd      \lg          \ln      \Pr       \sup   
+  \arct an     \cot       \det      \hom      \lim         \log      \sec       \tan   
+   \arg        \coth      \dim      \inf      \liminf      \max       \sin      \tanh
+   \)
+
+======Derivatives, Limits, Sums and Integrals======
+http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/Calculus.html
+
+The expressions $$ \frac{du}{dt} and \frac{d^2 u}{dx^2} $$
+are obtained in LaTeX by typing ''%%\frac{du}{dt} and \frac{d^2 u}{dx^2}%%'' respectively.
+The mathematical symbol \(\partial\) is produced using ''\partial''.
+
+Thus the Heat Equation
+$$
+ \frac{\partial u}{\partial t}
+= h^2 \left( \frac{\partial^2 u}{\partial x^2}
++ \frac{\partial^2 u}{\partial y^2}
++ \frac{\partial^2 u}{\partial z^2} \right) $$
+is obtained in LaTeX by typing
+<code latex>
+ \frac{\partial u}{\partial t}
+= h^2 \left( \frac{\partial^2 u}{\partial x^2}
++ \frac{\partial^2 u}{\partial y^2}
++ \frac{\partial^2 u}{\partial z^2} \right)
+</code>
+
+To obtain mathematical expressions such as
+$$ \lim_{x \to +\infty}, \inf_{x > s} and \sup_K $$
+in displayed equations we type <code latex>\lim_{x \to +\infty}, \inf_{x > s} and \sup_K</code> respectively.
+
+Thus to obtain
+$$  \lim_{x \to +\infty} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3. $$
+(in LaTeX) we type ''%% \lim_{x \to +\infty} \frac{3x^2 +7x^3}{x^2 +5x^4} = 3.%%''
+
+To obtain a summation sign such as $$ \sum_{i=1}^{2n} $$
+we type ''%%\sum_{i=1}^{2n}%%''.
+
+Thus
+$$  \sum_{k=1}^n k^2 = \frac{1}{2} n (n+1).  $$
+is obtained by typing
+<code latex>
+    \sum_{k=1}^n k^2 = \frac{1}{2} n (n+1).
+</code>

@@ -1,0 +1,29 @@
+======T8======
+Vypočítejte derivace funkcí y = f (x) daných implicitně:
+
+======130.======
+\( x^2 + 2xy − y^2 = 2x, y < x \) Vypočítejte \( f'(2) \).
+
+[[wa>derivative  x^2 + 2xy − y^2 = 2x]]
+
+======131.======
+\( y^2 = 2px , y > 0 \)
+[[wa>derivative y^2 = 2px , y > 0 ]]
+
+======133.======
+DELETEME \( \sqrt{x} + \sqrt{y} = \sqrt{a} , y > 0 \)
+[[wa>derivative  sqrt(x) + sqrt(y) = sqrt(a) ]]
+
+======132.======
+\( \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1, y>0 \)
+[[wa> derivative x^2/a^2 + y^2/b^2 = 1, y>0 ]]
+
+======134.======
+DELETEME \( x^{2/3} + y^{2/3} = a^{\frac{2}{3}} , y > 0 \)
+[[wa>derivative x^(2/3) + y^(2/3) = a^(2/3) ]]
+
+======135.======
+DELETEME \( \arctan \frac{y}{x} = \ln \sqrt{x^2 + y^2}, y<x \)
+[[wa> aan y/x = ln sqrt(x^2 + y^2), y<x ]]
+
+http://math.feld.cvut.cz/mt/txtc/5/txc3ca5a.htm

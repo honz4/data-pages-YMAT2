@@ -1,0 +1,63 @@
+======T1======
+Určete deﬁniční obor funkcí a uveďte, zda jsou sudé nebo liché:
+=====1=====
+\( f(x) = \frac{x^2}{1 + x} \)
+[[wa> asymptotes (x^2)/(1+x) , x = -10 to 10]]
+<sagecell> plot( (x^2)/(1+x), (x, -10, 10) )</sagecell>
+
+=====2.=====
+\( f(x) = \sqrt{3x − x^3} \)
+[[wa> plot sqrt(3x - x^3) , x = -10 to 10]]
+
+=====3.=====
+\( f(x) = (x − 2)  \sqrt{\frac{1 + x}{1 - x}} \)
+[[wa> plot (x − 2) / sqrt((1 + x)/(1 - x)) , x=-10 to 10 ]]
+
+=====4.=====
+\( f(x) =\ln(x^2 − 4) \)
+[[wa> plot ln(x^2 − 4) ]]
+
+=====5.=====
+\( f(x) =\ln(x + 2) + ln(x − 2) \)
+[[wa>plot ln(x + 2) + ln(x − 2) ]]
+
+=====6.=====
+DELETEME \( f(x) =\ln(1 − 4x^2) \)
+[[wa>plot ln(1 - 4x^2) ]]
+
+=====7.=====
+DELETEME \( f(x) = \sqrt{3x^2 − 4x + 1} \)
+[[wa> plot sqrt(3x^2 − 4x + 1) ]]
+
+=====8.=====
+\( f(x) =\ln \pi/x + \arctan 2x \)
+[[wa>plot ln  pi/x +  arctg 2x ]]
+
+=====9.=====
+DELETEME \( f(x) = \frac{\sqrt{x}}{\ln(2 - x)} \)
+[[wa> plot       sqrt(x)/( ln(2 - x)) ]]
+ 
+=====10.=====
+DELETEME \( f (x) = ln(x^2 + 5x + 10) \)
+[[wa> plot ln(x^2 + 5x + 10) , x= -10 to 10 ]]
+
+=====11.=====
+\( f(x) = 3x − x^3 \)
+[[wa> plot 3x − x^3 , x=-10 to 10]]
+
+=====12.=====
+\( f(x) = \sqrt[3]{(1-x)^2} + \sqrt[3]{(1+x)^2} \)
+[[wa>plot  cuberoot(1-x)^2  +  cuberoot(1+x)^2]]
+
+=====13.=====
+DELETEME \( f(x) = a^x + a^{−x}, (a > 0) \)
+[[wa>plot a^x + a^−x, a=1 ]]
+
+=====14.=====
+DELETEME \( f(x) = \ln \frac{1 - x}{1 + x} \)
+[[wa> plot ln      (1 - x)/(1 + x)]]
+
+=====15.=====
+DELETEME \( f(x) =\ln(x + \sqrt{1 + x^2} ) \)
+[[wa>plot ln(x +  sqrt(1 + x^2) )]]
+

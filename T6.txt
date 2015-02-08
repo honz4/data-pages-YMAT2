@@ -1,0 +1,54 @@
+======T6======
+Nalezněte body nespojitosti a určete jejich druh:
+=====75.=====
+\( f(x) = \frac{x}{(1 + x)^2} \)
+[[wa> f(x) = x/(1 + x)^2) ]]
+
+=====81.=====
+\( f(x) = \sgn \sin \frac{\pi}{x} \)
+[[wa> f(x) = sgn sin (pi/x) ]]
+
+=====82.=====
+\( f(x) = \frac{\cos \pi/x}{\cos \pi/x} \)
+
+=====76.=====
+\( f(x) = \frac{1+x}{1 + x^3} \)
+
+=====77.=====
+\( f(x) = \frac{\frac{1}{x} - \frac{1}{x + 1}}{\frac{1}{x - 1} - \frac{1}{x}} \)
+
+=====78.=====
+\( f(x) = \frac{x}{\sin x} \)
+[[wa> f(x) = x / sin x ]]
+
+=====79.=====
+\( f(x) = \sqrt{\frac{1 - \cos (\pi x)}{4 - x^2}} \)
+[[wa> f(x) = sqrt( (1 - cos (pi x)) / (4 - x^2)) ]]
+
+=====85.=====
+\( f(x) = e^{x+\frac{1}{x}} \)
+
+=====80.=====
+\( f(x) = \cos^2 \frac{1}{x} \)
+[[wa> f(x) = cos^2 1/x ]]
+
+=====83.=====
+\( f(x) = arctg
+
+=====84.=====
+\( f(x) =
+
+π
+x
+
+1
+ln x
+1
+=====87.=====
+\( f (x) =
+x
+1 − e 1−x
+=====86.=====
+\( f(x) = \frac{1}{\ln x} \)
+[[wa> f(x) = 1/ln x ]]
+

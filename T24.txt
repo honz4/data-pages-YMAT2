@@ -1,0 +1,42 @@
+======T24======
+[[http://math.feld.cvut.cz/mt/txtd/3/txc3db3c.htm|Metodou]] [[cs>per partes]] najděte [[cs>primitivní funkce]]:
+
+\( (f g)' = f'g + f g' \)
+pak
+\( \int f g' dx = f g  - \int f' g \) 
+
+=====307.=====
+\( \int x \ln x \,dx \)
+[[wa> integrate x ln x dx]] [[stepbystep#T307]]
+
+=====308.=====
+\( \int \ln x \,dx \)
+[[wa> integrate ln x dx ]] [[stepbystep#T308]]
+
+=====309.=====
+DELETEME \( \int \sqrt{x} \ln^2 x \,dx \)
+[[wa>integrate  sqrt x ln^2 x dx ]]
+
+=====310.=====
+DELETEME \( \int \frac{\ln^2 x}{x^2\sqrt{x}} \,dx \)
+[[wa>integrate (ln^2 x) / (x^2 sqrt x) dx ]]
+
+=====311.=====
+\( \int \ln^2 x \,dx \)
+[[wa> integrate ln^2 x dx ]]
+
+2krát per-partes: f = ln^x, dg = dx, df= 2 ln x 1/x dx, g = x, druhá stejná jako [[#307]], viz [[stepbystep#T311]]
+
+=====312.=====
+\( \int xe^{−x} \,dx \)
+[[wa> integrate x e^-x dx ]] viz [[stepbystep#T312]]
+
+=====313.=====
+DELETEME \( \int x \sin^2 x \,dx  \)
+[[wa>integrate x sin^2 x dx ]]
+
+=====314.=====
+DELETEME \( \int x^2 \sin 2x \,dx \)
+[[wa>integrate x^2 sin 2x dx ]]
+
+http://math.feld.cvut.cz/mt/txtd/3/txc3db3.htm

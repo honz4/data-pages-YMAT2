@@ -1,0 +1,22 @@
+======T12======
+Vypočítejte n-tou derivaci funkcí:
+  * [[wa>table d^n/dx^n cos(x) for n = 1 ... 4 ]]
+=====153.=====
+\( f (x) = \frac{1}{1 - x} \)
+[[wa> derivative 1 / (1 - x) ]]
+[[wa> d^n/dx^n   1 / (1 - x) ]]
+
+=====154.=====
+\( f (x) = \cos x \)
+[[wa> derivative cos x]]
+[[wa> d^n/dx^n   cos x]]
+
+=====155.=====
+\( f (x) = \sin^2 x \)
+[[wa> derivative sin^2 x]]
+[[wa> d^n/dx^n   sin^2 x]]
+
+=====156.=====
+\( f (x) = e^x \sin x \)
+[[wa> derivative e^x sin x]]
+[[wa> d^n/dx^n   e^x sin x]]

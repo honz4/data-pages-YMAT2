@@ -1,0 +1,121 @@
+======T17======
+Pomocí l’Hospitalova pravidla vypočítejte limity:
+
+=====199.=====
+\( \lim_{x \to 0} \frac{\sin ax}{\sin bx} \)
+[[wa> limit sin ax / sin bx as x-> 0]]
+
+=====200.=====
+\( \lim_{x \to 0} \frac{\cosh x - \cos x}{x^2} \)
+[[wa> limit (cosh x - cos x)/x^2 as x->0 ]]
+[[wa> derivative cosh x]] [[derivace#sinh]], použít pravidlo dvakrát!!!
+
+=====201.=====
+DELETEME \( \lim_{x \to 0} \frac{\tan x - x}{x - \sin x} \)
+[[wa> limit of (tan x - x)/(x - sin x) as x->0 ]]
+
+=====202.=====
+DELETEME \( \lim_{x \to 0} \frac{3 \tan 4x - 12 \tan x}{2 \sin 4x - 12 \sin x} \)
+[[wa> limit (3 tan 4x - 12 tan x)/(3 sin 4x - 12 sin x) as x->0 ]]
+
+
+\( \lim_{x \to 0} \)
+
+=====203.=====
+DELETEME \( \lim_{x \to \frac{\pi}{2}} \frac{\tan 3x}{\tan x} =1/3 \), použít 3krát!
+[[wa> limit tan 3x / tan x as x->pi/2 ]]
+
+
+
+=====204.=====
+DELETEME \( \lim_{x \to 0} \frac{x \cot x - 1}{x^2} \)
+
+=====205.=====
+DELETEME
+\( \lim_{x \to \frac{\pi}{4}} \frac{\sqrt[3]{\tan x} - 1}{ 2 \sin^2 x - 1} \)
+
+=====206.=====
+DELETEME \( \lim_{x \to 0} \frac{x(e^x + 1) − 2(e^x − 1)}{x^3} \)
+
+
+=====207.=====
+\( \lim_{x \to 0} \frac{1 − \cos x^2}{x^2 sin x^2} \)
+[[wa> limit (1 − cos x^2) / (x^2 sin x^2) as x->0 ]]
+
+=====208.=====
+\( \lim_{x \to 0} \frac{a^x - \a^{\sin x}}{x^3} \)
+
+=====209.=====
+\(   \lim_{x \to 1} \frac{x^x - x}{\ln x - x + 1} \)
+[[wa> limit (x^x - x) / (ln x - x + 1) as x->1 ]]
+
+=====210.=====
+DELETEME \( \lim_{x \to 0} \frac{\ln \sin ax}{\ln \sin bx} \)
+[[wa> limit of (ln sin ax)/(ln sin bx) as x->0 ]]
+
+=====211.=====
+
+=====212.=====
+\( \lim_{x \to +\infty} \frac{x^n}{e^{ax}}, a>0, n>0 \)
+[[wa> limit x^n/e^(ax) as x->+oo ]]
+
+=====213.=====
+\( \lim_{x \to 0} \frac{e^{-\frac{1}{x^2}}}{x^100} \)
+[[wa> limit e^{-1/x^2 / x^100 as x->0 ]]
+
+=====214.=====
+
+=====215.=====
+\( \lim_{x \to 1-} (ln x)(ln(1 - x) \)
+[[wa> limit of (ln x)(ln(1 - x) as x->1- ]]
+
+=====216.=====
+DELETEME \( \lim_{x \to +0} x^a\ln x , a>0 \)
+[[wa> limit x^a ln x as x->+0 ]]
+
+=====217.=====
+\( \lim_{x \to +0} x^x \)
+[[wa> limit x^x as x->+0 ]]
+[[wa>  derivative x^x ]] [[stepbystep#T217]]
+
+=====218.=====
+DELETEME
+\( \lim_{x \to 0} x^(x^x - 1) \)
+[[wa> limit x^(x^x - 1) as x->0 ]]
+
+=====219.=====
+\( \lim_{x \to 0} x^{x^x} - 1 \)
+[[wa>  limit  of x^x^x -1 as x->0 ]]
+
+[[wa>  derivative x^x ]] [[stepbystep#T219]]
+
+=====220.=====
+DELETEME \( \lim_{x \to +0} x^\frac{k}{1 + ln x} \)
+
+=====221.=====
+\( \lim_{x \to 1} x^\frac{1}{1 - x} \)
+[[wa> limit x^(1/(1 - x)) as x->1 ]] [[stepbystep#T221]]
+
+=====222.=====
+
+=====223.=====
+
+=====224.=====
+DELETEME \( \lim_{x \to 0} (\cot x)^{\sin x} \)
+[[wa> limit of (cotg x)^sin x as x->0 ]]
+
+=====225.=====
+\( \lim_{x \to 0+} (\ln \frac{1}{x})^x \)
+[[wa> limit of (ln 1/x)^x as x->0+ ]] [[stepbystep#T225]]
+
+=====226.=====
+
+=====227.=====
+
+=====228.=====
+\( \lim_{x \to 1} ( \frac{1}{\ln x} - \frac{1}{x -1}) \)
+[[wa> limit ( 1/ln x - 1/(x - 1) ) as x->1 ]]
+
+=====229.=====
+
+http://math.feld.cvut.cz/mt/txtb/5/txc3ba5d.htm [[derivace]]

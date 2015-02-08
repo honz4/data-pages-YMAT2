@@ -1,0 +1,12 @@
+======T20======
+Odhadněte chybu Maclaurinova polynomu:
+
+=====243.=====
+stupně 5 funkce sin x při aproximaci sin 0.2
+
+=====244.=====
+stupně 6 funkce cos x při aproximaci cos 1
+
+=====245.=====
+stupně 2 funkce \( \frac{1}{\cos}x \) při aproximaci \( \frac{1}{\cos 0.2} \)
+

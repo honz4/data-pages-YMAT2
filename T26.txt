@@ -1,0 +1,19 @@
+======T26======
+Použitím Leibnizova–Newtonova vzorce vypočítejte integrály:
+=====325.=====
+\( \int_-1^8 \sqrt[3]{x} \dx \)
+
+=====326.=====
+\(\int_0^\pi \sin x \dx \)
+
+=====327.=====
+\( \int_{\frac{1}{\sqrt{3}}}^\sqrt{3} \frac{\dx}{1 + x^2} \)
+
+=====328.=====
+DELETEME \( \int_0^2 |1 - x| \dx \)
+
+=====329.=====
+DELETEME \( \int_0^(100\pi) \sqrt{1 - \cos 2x} \dx \)
+
+=====330.=====
+DELETEME \( \int_0^1 a^x \dx, a>0 \)
